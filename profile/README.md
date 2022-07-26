@@ -2,7 +2,7 @@
 ## About us:
 Astro anticheat is an anticheat solution for Java edition minecraft servers
 ## Features
-- Supports 1.8 to the latest versions
+- Supports 1.8 to 1.19
 - Flexible and customizable
 - Fast support
 - Fast and efficient
