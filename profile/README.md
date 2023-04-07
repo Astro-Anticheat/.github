@@ -1,6 +1,12 @@
-# Astro Anticheat
-## About us:
-Astro anticheat is an anticheat solution for Java edition minecraft servers
+<h1> <bold>Astro Anticheat</bold> </h1>
+
+
+<h2> What is Astro? </h2>
+Astro Anticheat is an anticheat solution designed for Minecraft Java Edition servers that helps determine the legitimacy of players, ensuring fair gameplay.
+
+<h2> About Us </h2>
+Founded in 2021, our goal was to create an anticheat solution to prevent cheaters from ruining the gameplay experience for other players.
+
 ## Features
 - Supports 1.8 to 1.19
 - Flexible and customizable
