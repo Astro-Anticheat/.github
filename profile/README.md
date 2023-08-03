@@ -9,6 +9,7 @@ Originally started back in 2021, our goal was to create an anticheat solution to
 ## 🔍 Features
  - Supports server and client versions 1.8 to 1.20+
  - Flexible and customizable
+ - Supporting Java and Bedrock players
  - Fast and efficient
  - Actively updated
 
