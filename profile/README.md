@@ -11,6 +11,7 @@ Originally started back in 2021, our goal was to create an anticheat solution to
  - Flexible and customizable
  - Supporting Java and Bedrock players
  - Fast and efficient
+ - Fast Customer Support
  - Actively updated
 
 ## 🎉 Data to date (8/3/2023)
