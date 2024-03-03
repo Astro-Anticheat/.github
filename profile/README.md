@@ -14,9 +14,9 @@ Originally started back in 2021, our goal was to create an anticheat solution to
  - Fast Customer Support
  - Actively updated
 
-## 🎉 Data to date (8/3/2023)
- - +5k average users per day.
- - +1,650,000 cheaters banned.
+## 🎉 Data to date (3/2/2024)
+ - +8k average users per day.
+ - +2,700,000 cheaters banned.
 
 ## Contact Us:
 More information and how to purchase can be found [here](https://astroac.cc). You can also contact us here too.
