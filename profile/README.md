@@ -1,10 +1,10 @@
-# Astro Anticheat
+# Astro Anti-cheat
 
 ## ❔ What is Astro?
-Astro Anticheat is the leading modern anticheat solution designed for games that helps determine the legitimacy of players, ensuring fair gameplay for everyone.
+Astro is the leading modern anti-cheat solution designed for games that helps determine the legitimacy of players, ensuring fair gameplay for everyone.
 
 ## 🙂 About Us
-Originally started back in 2021, our goal was to create an anticheat solution to prevent cheaters from ruining the gameplay experience for other players on Minecraft servers.
+Originally started back in 2021, our goal was to create an anti-cheat solution to prevent cheaters from ruining the gameplay experience for other players on Minecraft servers.
 
 ## ⭐ Games Supported:
  - Minecraft Java Edition
