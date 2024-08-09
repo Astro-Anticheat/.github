@@ -10,7 +10,7 @@ Originally started back in 2021, our goal was to create an anti-cheat solution t
  - Minecraft Java Edition
 
 ## 🔍 Features
- - Supports server and client versions 1.8 to 1.21
+ - Supports server and client versions 1.8 to 1.21.1
  - Flexible and customizable
  - Supporting Java and Bedrock players
  - Fast and efficient
