@@ -17,9 +17,9 @@ Originally started back in 2021, our goal was to create an anti-cheat solution t
  - Fast Customer Support
  - Actively updated
 
-## 🎉 Data to date (7/18/2024)
- - +16k average users per day.
- - +3,700,000 punish events processed.
+## 🎉 Data to date (8/31/2024)
+ - +18k average users per day.
+ - +4,200,000 punish events processed.
 
 ## Contact Us:
 More information and how to purchase can be found [here](https://astroac.cc). You can also contact us here too.
