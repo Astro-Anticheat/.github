@@ -20,3 +20,6 @@ Originally started back in 2021, our goal was to create an anti-cheat solution t
 
 ## Contact Us:
 More information and how to purchase can be found [here](https://astroac.cc). You can also contact us here too.
+<a href="https://astroac.gg">
+ <img alt="AstroAC Discord" src="https://discord.com/api/guilds/914997644617715753/widget.png">
+</a>
