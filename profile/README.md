@@ -7,7 +7,7 @@ Astro is the leading modern anti-cheat solution designed for Minecraft networks 
 Originally started back in 2021, our goal was to create an anti-cheat solution to prevent cheaters from ruining the gameplay experience for other players on Minecraft servers.
 
 ## 🔍 Features
- - Supports server and client versions 1.8 to 1.21.4
+ - Supports server and client versions 1.8 to 1.21.5
  - Flexible and customizable
  - Supporting Java and Bedrock players
  - Fast and efficient
@@ -20,6 +20,7 @@ Originally started back in 2021, our goal was to create an anti-cheat solution t
 
 ## Contact Us:
 More information and how to purchase can be found [here](https://astroac.cc). You can also contact us here too.
+
 <a href="https://astroac.gg">
  <img alt="AstroAC Discord" src="https://discord.com/api/guilds/914997644617715753/widget.png">
 </a>
