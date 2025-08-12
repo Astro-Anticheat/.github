@@ -10,7 +10,7 @@ Originally started back in 2021, our goal was to create an anti-cheat solution t
  - Supports server and client versions 1.8 to 1.21.8
  - Flexible and customizable
  - Supporting Java and Bedrock players
- - Fast and efficient
+ - SaaS, Fast and efficient
  - Fast Customer Support
  - Actively updated
 
