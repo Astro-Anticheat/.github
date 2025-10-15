@@ -7,7 +7,7 @@ Astro is the leading modern anti-cheat solution expanding to more games that hel
 Originally started back in 2021, our goal was to create an anti-cheat solution to prevent cheaters from ruining the gameplay experience for other players on games.
 
 ## Features (Minecraft)
- - Supports server and client versions 1.8 to 1.21.8
+ - Supports server and client versions 1.8 to 1.21.10
  - Flexible and customizable
  - Supporting Java and Bedrock players
  - SaaS, Fast and efficient
